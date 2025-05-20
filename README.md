@@ -4,7 +4,7 @@
 # USING AUTOPSY TO RETRIEVE THE DELETED FILES
 
 
-## **Aim:**
+## **Aim:** 
 Data recovery from unallocated space, using forensic tools(Autospy) to extract and analyze data.
 
 ## **Implementation steps:**
